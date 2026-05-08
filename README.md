@@ -109,3 +109,13 @@ BCA Final Year Student
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
+
+
+MIT License
+
+Copyright © 2026 Hemant Chauhan. All Rights Reserved.
+
+This project, "Secure-Steg-Messaging", is the original work of Hemant Chauhan.  
+Unauthorized copying, modification, distribution, or claiming this project as personal work is strictly prohibited without permission from the author.
+
+This project is created for educational and academic purposes only.
