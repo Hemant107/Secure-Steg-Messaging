@@ -1,129 +1,91 @@
 # Secure-Steg-Messaging
 
-📌 Project Overview
+# Secure-Steg-Messaging
 
-Secure-Steg-Messaging is a secure communication system that hides confidential messages inside images using Steganography and protects the hidden data using AES Encryption.
-The project is developed using Python Flask with a modern web interface for secure encoding and decoding of hidden messages.
+## 📌 About Project
 
-This project ensures secure communication without revealing sensitive information to third parties.
+Secure-Steg-Messaging is a Python Flask based project that hides secret messages inside images using **Steganography** and protects them using **AES Encryption**.
+It allows secure communication without exposing data to third parties.
 
+---
 
-🚀 Features
+## 🚀 Features
 
-🔒 Password Protected Messaging
-🖼️ Image Steganography
-🔐 AES Encryption Security
-📤 Encode Secret Messages into Images
-📥 Decode Hidden Messages from Images
-🌐 Flask-Based Web Interface
-💾 SQLite Database Support
-📜 Message History Management
-⚡ Fast & Secure Processing
-📱 Responsive UI Design
-🛠️ Technologies Used
-Frontend
-HTML5
-CSS3
-JavaScript
-Backend
-Python
-Flask
-Database
-SQLite
-Security
-AES Encryption
-Image Steganography
-📂 Project Structure
-Secure-Steg-Messaging/
-│
-├── static/                 # CSS, JS, Images
-├── templates/              # HTML Templates
-├── uploads/                # Uploaded Images
-├── output/                 # Encoded Images
-├── app.py                  # Main Flask App
-├── stego.py                # Steganography Logic
-├── aes_utils.py            # AES Encryption Functions
-├── db_utils.py             # Database Functions
-├── requirements.txt        # Required Libraries
-└── README.md
-⚙️ Software Requirements
+* Hide secret messages inside images
+* Password protected encryption
+* Encode & Decode messages
+* Secure communication
+* Simple web interface using Flask
 
-Before running the project, install the following software:
+---
 
-✅ Required Software
-Software	Version
-Python	3.9 or above
-pip	Latest
-Git	Optional
-📦 Required Python Libraries
+## 🛠️ Technologies Used
 
-Install these libraries using pip:
+* Python
+* Flask
+* HTML, CSS, JavaScript
+* SQLite
+* AES Encryption
 
+---
+
+## 📦 Install Required Libraries
+
+```bash id="lu2lhp"
 pip install flask pillow pycryptodome
+```
 
-Or install all dependencies using:
+Or:
 
+```bash id="jmtq16"
 pip install -r requirements.txt
-📝 requirements.txt
+```
 
-Create a requirements.txt file and add:
+---
 
-Flask
-Pillow
-pycryptodome
-⚙️ Installation & Setup Guide
-1️⃣ Clone the Repository
+## ▶️ How to Run Project
+
+### 1️⃣ Clone Repository
+
+```bash id="avt5sv"
 git clone https://github.com/your-username/Secure-Steg-Messaging.git
-2️⃣ Open Project Folder
+```
+
+### 2️⃣ Open Project Folder
+
+```bash id="jlwm1k"
 cd Secure-Steg-Messaging
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-4️⃣ Run the Application
+```
+
+### 3️⃣ Run Flask App
+
+```bash id="3w91lr"
 python app.py
-5️⃣ Open in Browser
+```
 
-After running the server, open:
+### 4️⃣ Open Browser
+
+```bash id="rqjlwm"
 http://127.0.0.1:5000
+```
 
-▶️ How to Use the Project
-🔐 Encode Message
-Open the web application
-Upload an image
-Enter secret message
-Enter password
-Click Encode
-Download encoded image
-🔓 Decode Message
-Upload encoded image
-Enter correct password
-Click Decode
-Hidden message will appear
-🔐 How Security Works
-AES Encryption
+---
 
-Before hiding the message:
+## 🔐 How It Works
 
-Text is encrypted using AES encryption
-Password is required for decryption
-Steganography
-Encrypted data is hidden inside image pixels
-Image looks normal to others
-Only authorized users can decode the hidden data
+1. Upload image
+2. Enter secret message & password
+3. Message gets encrypted and hidden inside image
+4. Receiver uploads image and enters password to decode message
 
-🎯 Project Objectives
-Secure communication using images
-Protect confidential information
-Prevent unauthorized data access
-Combine cryptography with steganography
-Create a user-friendly secure platform
+---
 
-🔮 Future Enhancements
-User Login & Authentication
-Secure Cloud Storage
-Video & Audio Steganography
-AI-Based Security Monitoring
-Mobile Application Version
-Real-Time Secure Chat
+## 👨‍💻 Author
+
+**Hemant Chauhan**
+BCA Final Year Student
+
+
 📸 Screenshots
 <img width="1876" height="965" alt="SS1" src="https://github.com/user-attachments/assets/cf7f3177-da48-44ac-8d30-27571895e4ca" />
 
@@ -142,14 +104,7 @@ Real-Time Secure Chat
 
 
 
-👨‍💻 Author
 
-Hemant Chauhan
-BCA Final Year Student
-
-📄 License
-
-This project is created for educational and academic purposes.
 
 ⭐ Support
 
