@@ -7,7 +7,9 @@ The project is developed using Python Flask with a modern web interface for secu
 
 This project ensures secure communication without revealing sensitive information to third parties.
 
+
 🚀 Features
+
 🔒 Password Protected Messaging
 🖼️ Image Steganography
 🔐 AES Encryption Security
@@ -124,10 +126,15 @@ Mobile Application Version
 Real-Time Secure Chat
 📸 Screenshots
 <img width="1876" height="965" alt="SS1" src="https://github.com/user-attachments/assets/cf7f3177-da48-44ac-8d30-27571895e4ca" />
+
 <img width="1886" height="973" alt="SS2" src="https://github.com/user-attachments/assets/16912be0-ba02-4d0e-b425-ded4aed21913" />
+
 <img width="1902" height="962" alt="SS3" src="https://github.com/user-attachments/assets/c6abd6aa-5b0b-492e-b5a1-23a9883167b3" />
+
 <img width="1892" height="962" alt="SS4" src="https://github.com/user-attachments/assets/1e47f094-2288-4063-951c-f2a6aef185c9" />
+
 <img width="1903" height="972" alt="SS5" src="https://github.com/user-attachments/assets/c12a4e2f-9900-4268-a9f8-dd8c795787b9" />
+
 <img width="1898" height="968" alt="SS6" src="https://github.com/user-attachments/assets/d883b167-45b5-408b-bce8-6dd2a198fa8f" />
 
 
@@ -136,10 +143,12 @@ Real-Time Secure Chat
 
 
 👨‍💻 Author
+
 Hemant Chauhan
 BCA Final Year Student
 
 📄 License
+
 This project is created for educational and academic purposes.
 
 ⭐ Support
