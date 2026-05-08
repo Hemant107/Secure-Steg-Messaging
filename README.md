@@ -111,7 +111,8 @@ BCA Final Year Student
 If you like this project, give it a ⭐ on GitHub.
 
 
-MIT License
+
+👉 MIT License
 
 Copyright © 2026 Hemant Chauhan. All Rights Reserved.
 
